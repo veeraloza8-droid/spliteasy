@@ -6,7 +6,7 @@
 
 ![SplitEasy welcome screen with the create-group form](screenshots/welcome.png)
 
-**🌐 Live demo:** _Link coming after the GitHub Pages deployment._  
+**🌐 Live demo:** [Open SplitEasy](https://veeraloza8-droid.github.io/spliteasy/)  
 **⚡ Try it locally:** Download this repository and open [`index.html`](index.html) in Chrome or Edge. No installation, accounts, API keys, or server are required.
 
 > **The idea:** Keeping track of shared expenses should take less effort than paying for them.
@@ -50,7 +50,7 @@ You can also serve the folder with any static web server or host it on **GitHub 
 
 ### Deploy with GitHub Pages
 
-In your public repository, open **Settings → Pages**. Choose **Deploy from a branch**, set the branch to `main` and folder to `/(root)`, and save. After GitHub publishes the site, copy its URL into the **Live demo** line near the top of this README. Test the deployed link in a fresh browser window before sharing it.
+In your public repository, open **Settings → Pages**. Choose **Deploy from a branch**, set the branch to `main` and folder to `/(root)`, and save. The website is published at the **Live demo** link near the top of this README. Test its buttons in a fresh browser window before sharing it.
 
 ## How the math works (behind the scenes)
 
